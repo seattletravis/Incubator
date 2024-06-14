@@ -7,3 +7,19 @@
 ### <u>Low hanging fruit</u>
 
 (The best sort of project ideas, stuff that can get done in a few weeks!)
+
+Idea #1 (I love pressed pennies!) There's something about the nostegia, childhood curriosity, that idea that there's a treasure adventure waiting for you to take it on. That's where this full stack web application comes into play.
+
+The existing pressed penny api is really, really outdated and lame. It gives a map with all the pressed penny machines, but this is an outdated model and frontend. The new frontends for address locations start with a list of address cards that are ranked from shortest distance to the mobile device, and if on a pc then prompt user for location then show address cards. this is the perfect frontend for your onthego penny press hunting adventure.
+
+Front end -
+
+1.  prompt for location or get location from device,
+2.  show list of address cards ranked by dist to user,
+3.  CLick on card to show more information, and other user notes
+4.  Sign in to leave your account of your adventure, (is penny press out of order?, How much is costs, other details)
+
+Back end -
+
+1.  use existing API for penny presses -or- build new backend
+2.  authenitcation, simple chat functionality, reviews, penny press status,
