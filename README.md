@@ -8,7 +8,7 @@
 
 (The best sort of project ideas, stuff that can get done in a few weeks!)
 
-## Idea #1
+## Idea #1 (Penny Press Adventure APP)
 
 (I love pressed pennies!) There's something about the nostegia, childhood curriosity, that idea that there's a treasure adventure waiting for you to take it on. That's where this full stack web application comes into play.
 
