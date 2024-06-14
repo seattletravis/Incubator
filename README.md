@@ -8,7 +8,9 @@
 
 (The best sort of project ideas, stuff that can get done in a few weeks!)
 
-Idea #1 (I love pressed pennies!) There's something about the nostegia, childhood curriosity, that idea that there's a treasure adventure waiting for you to take it on. That's where this full stack web application comes into play.
+## Idea #1
+
+(I love pressed pennies!) There's something about the nostegia, childhood curriosity, that idea that there's a treasure adventure waiting for you to take it on. That's where this full stack web application comes into play.
 
 The existing pressed penny api is really, really outdated and lame. It gives a map with all the pressed penny machines, but this is an outdated model and frontend. The new frontends for address locations start with a list of address cards that are ranked from shortest distance to the mobile device, and if on a pc then prompt user for location then show address cards. this is the perfect frontend for your onthego penny press hunting adventure.
 
