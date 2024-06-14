@@ -25,3 +25,6 @@ Back end -
 
 1.  use existing API for penny presses -or- build new backend
 2.  authenitcation, simple chat functionality, reviews, penny press status,
+3.  Use Django for the project
+4.  Spin up server at my house because the cloud is not cool for an app that will get no hits.
+5.  use Docker and Kubernetes - becuase it's so easy.
