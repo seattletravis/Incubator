@@ -31,7 +31,8 @@ Back end -
 
 JSON Penny Press Machines -
 
-"pennyPressMachines": {
+pennyPressMachines =
+{
 "key": "1",
 "name": "nameOfStoreOrBusiness",
 "address": {
