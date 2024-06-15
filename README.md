@@ -31,13 +31,17 @@ Back end -
 
 JSON Penny Press Machines -
 
-"pennyPressMachines":
-[{
+{
+"pennyPressMachines": {
 "key": "1",
 "name": "nameOfStoreOrBusiness",
-"address": {"street": "123 front st", "city": "Seattle", "state": "WA"},  
-"outOfOrder": False,
+"address": {
+"street": "123 front st",
+"city": "Seattle",
+"state": "WA"},  
+ "outOfOrder": False,
 "costPerPress": 0.50,
 "paymentMethods": ["cash", "credit", "coin"],
 "numberOfImpressions": 4,
-}]
+}
+}
