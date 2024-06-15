@@ -28,3 +28,17 @@ Back end -
 3.  Use Django for the project
 4.  Spin up server at my house because the cloud is not cool for an app that will get no hits.
 5.  use Docker and Kubernetes - becuase it's so easy.
+
+JSON Penny Press Machines -
+
+"pennyPressMachines": [
+{
+"key": "1",
+"name": "nameOfStoreOrBusiness",
+"address": {"street": "123 front st", "city": "Seattle", "state": "WA"},  
+"outOfOrder": False,
+"costPerPress": 0.50,
+"paymentMethods": ["cash", "credit", "coin"],
+"numberOfImpressions": 4,
+}
+]
